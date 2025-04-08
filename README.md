@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="" width="600" alt="MY_BANNER" />
+</p>
+
 <h1 align="center">Hey there, I'm MR.VARAD1455 👋</h1>
 <h3 align="center">🚀 IT Engineering Student | Developer | Tech Enthusiast</h3>
 
