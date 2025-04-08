@@ -10,7 +10,7 @@
 ### 🌐 Live Portfolio
 
 <p align="center">
-  <a href="[https://your-portfolio-link.com](https://varad1455.github.io/MY-PORTFOLIO/)" target="_blank">
+  <a href="https://varad1455.github.io/MY-PORTFOLIO/" target="_blank">
     <img src="https://img.shields.io/badge/🌍%20Visit%20My%20Portfolio-121013?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
@@ -20,10 +20,9 @@
 ### 📬 Connect with Me
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://github.com/MR-VARAD1455"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:your-argadevarad14@gmail.com@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/varad-argade" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Varad1455"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
