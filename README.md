@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./MY_LOGO.png" height="250" width="250" alt="MY_BANNER" style="box-shadow: 0 4px 12px rgba(0, 255, 0, 0.6);" />
+  <img src="./MY_LOGO.png" height="250" width="250" alt="MY_BANNER"/>
 </p>
 
 <h1 align="center">Hey there, I'm MR.VARAD1455 👋</h1>
@@ -27,6 +27,13 @@
   <a href="mailto:your-argadevarad14@gmail.com@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/varad-argade" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Varad1455"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://instagram.com/mr.varad1455" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://facebook.com/mr.varad1455" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://snapchat.com/add/mr.varad1455" target="_blank"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=000000" /></a>
+  <a href="https://www.threads.net/mr.varad1455" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" /></a>
+  <a href="https://twitter.com/mr_varad1455" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+
+  
 </p>
 
 ---
