@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./LOGO PHOTO.png" height="250" width="250" alt="MY_BANNER" style="box-shadow: 0 4px 12px rgba(0, 255, 0, 0.6);" />
+  <img src="./MY_LOGO.png" height="250" width="250" alt="MY_BANNER" style="box-shadow: 0 4px 12px rgba(0, 255, 0, 0.6);" />
 </p>
 
 <h1 align="center">Hey there, I'm MR.VARAD1455 👋</h1>
