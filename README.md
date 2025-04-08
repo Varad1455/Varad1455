@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://varad1455.github.io/MY-PORTFOLIO/" target="_blank">
-    <img src="https://img.shields.io/badge/🌍%20Visit%20My%20Portfolio-121013?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/😍👉🏻%20Visit%20My%20Portfolio-121013?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
