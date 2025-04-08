@@ -2,7 +2,7 @@
 <h3 align="center">🚀 IT Engineering Student | Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=#FF0000&center=true&vCenter=true&width=435&lines=Code.+Debug.+Repeat.; Love+to+build+cool+thing's!; Let's+collaborate+and+learn+together!;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F50010&center=true&vCenter=true&width=500&lines=Code.+Debug.+Repeat.;Love+to+build+cool+things!;Let's+Collaborate+and+learn+together!;" alt="Typing SVG" />
 </p>
 
 ---
