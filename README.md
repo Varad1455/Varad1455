@@ -88,7 +88,7 @@
 
 ### ⚡ Fun Fact
 
-I once debugged a whole project at 3 AM with nothing but console logs and sheer willpower 💻☕🔥
+Google handles over 99,000 searches per second – that’s more than 8.5 billion searches a day! 💻🤯🔍👾
 
 ---
 
