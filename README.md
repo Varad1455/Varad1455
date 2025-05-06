@@ -82,7 +82,7 @@
 
 ### 💬 Quote of the Day
 
-> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler
+> "Success is not final, failure is not fatal: It is the courage to continue that counts." – Winston Churchill
 
 ---
 
