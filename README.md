@@ -82,13 +82,13 @@
 
 ### 💬 Quote of the Day
 
-> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler
+> "Success is not final, failure is not fatal: It is the courage to continue that counts." – Winston Churchill
 
 ---
 
 ### ⚡ Fun Fact
 
-I once debugged a whole project at 3 AM with nothing but console logs and sheer willpower 💻☕🔥
+Google handles over 99,000 searches per second – that’s more than 8.5 billion searches a day! 💻🤯🔍👾
 
 ---
 
