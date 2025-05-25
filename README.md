@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./MY_LOGO.png" height="250" width="250" alt="MY_BANNER"/>
+  <img src="./MY_LOGO.png" height="250" width="250" alt="MY_PIC ERROR..!😵‍💫👾"/>
 </p>
 
 <h1 align="center">Hey there, I'm MR.VARAD1455 👋</h1>
