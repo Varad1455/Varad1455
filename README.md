@@ -78,29 +78,21 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Varad1455&theme=tokyonight" alt="GitHub Summary Card" />
 </p>
 
-<!-- Contribution Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Varad1455/Varad1455/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
-</p>
-
 <!-- GitHub Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Varad1455&theme=tokyonight&no-frame=true&column=7&margin-w=5" alt="GitHub Trophies" />
 </p>
 
-<!-- Visitor Badge -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Varad1455&label=Profile%20Views&color=DD2727&style=flat-square" alt="Visitor Badge" />
-</p>
+
 
 ---
 
 ### 👀 Visitor Counter
 
+<!-- Visitor Badge -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Varad1455&style=flat-square&color=brightgreen" alt="Visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=Varad1455&label=Profile%20Views&color=DD2727&style=flat-square" alt="Visitor Badge" />
 </p>
-
 ---
 
 ### 💬 Quote of the Day
