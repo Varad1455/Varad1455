@@ -58,6 +58,11 @@
 
 ### 📊 GitHub Stats & Activity
 
+<!-- Git States and badge -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Varad1455&show_icons=true&theme=tokyonight&border_radius=10&hide_title=false" alt="GitHub Stats" />
+</p>
+
 <!-- Top Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varad1455&layout=compact&theme=tokyonight&langs_count=8&hide_progress=false" alt="Top Languages" />
