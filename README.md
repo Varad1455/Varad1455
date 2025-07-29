@@ -51,7 +51,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Varad1455&theme=tokyonight&margin-w=15&no-bg=true&title=Stars,Followers,Commits,Repositories,PullRequest" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Varad1455&theme=tokyonight&margin-w=15&no-bg=true&title=Stars,Followers,Commits,Repositories,PullRequest"/>
 </p>
 
 ---
