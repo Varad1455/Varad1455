@@ -58,17 +58,39 @@
 
 ### 📊 GitHub Stats & Activity
 
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varad1455&show_icons=true&theme=tokyonight&border_radius=10&hide_title=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Varad1455&show_icons=true&theme=tokyonight&border_radius=10&hide_title=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
-
+<!-- GitHub Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Varad1455&theme=tokyonight&fire=DD2727" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Varad1455&theme=tokyonight&fire=DD2727&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
+<!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varad1455&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varad1455&layout=compact&theme=tokyonight&langs_count=8&hide_progress=false" alt="Top Languages" />
+</p>
+
+<!-- Profile Summary Card -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Varad1455&theme=tokyonight" alt="GitHub Summary Card" />
+</p>
+
+<!-- Contribution Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Varad1455/Varad1455/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+</p>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Varad1455&theme=tokyonight&no-frame=true&column=7&margin-w=5" alt="GitHub Trophies" />
+</p>
+
+<!-- Visitor Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Varad1455&label=Profile%20Views&color=DD2727&style=flat-square" alt="Visitor Badge" />
 </p>
 
 ---
