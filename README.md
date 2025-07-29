@@ -58,16 +58,6 @@
 
 ### 📊 GitHub Stats & Activity
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varad1455&show_icons=true&theme=tokyonight&border_radius=10&hide_title=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<!-- GitHub Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Varad1455&theme=tokyonight&fire=DD2727&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
-
 <!-- Top Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varad1455&layout=compact&theme=tokyonight&langs_count=8&hide_progress=false" alt="Top Languages" />
