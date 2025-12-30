@@ -60,33 +60,53 @@
 ---
 
 ### 🏆 GitHub Trophies
-
+<!-- GitHub Trophies -->
 <p align="center">
+<<<<<<< HEAD
   <img src="https://github-profile-trophy.vercel.app/?username=Varad1455&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+=======
+  <img src="https://github-profile-trophy.vercel.app/?username=Varad1455&theme=tokyonight&no-frame=true&column=7&margin-w=5" alt="GitHub Trophies" />
+>>>>>>> 1a0aef012c6cd6e9ccc7e4b13f89ebf0ed6e4aa4
 </p>
+
+
 
 ---
 
 ### 📊 GitHub Stats & Activity
 
+<!-- Git States and badge -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Varad1455&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
+<!-- Top Languages -->
 <p align="center">
+<<<<<<< HEAD
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varad1455&theme=radical" alt="GitHub Streak" />
+=======
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varad1455&layout=compact&theme=tokyonight&langs_count=8&hide_progress=false" alt="Top Languages" />
+>>>>>>> 1a0aef012c6cd6e9ccc7e4b13f89ebf0ed6e4aa4
 </p>
 
+<!-- Profile Summary Card -->
 <p align="center">
+<<<<<<< HEAD
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varad1455&layout=compact&theme=radical" alt="Top Languages" />
+=======
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Varad1455&theme=tokyonight" alt="GitHub Summary Card" />
+>>>>>>> 1a0aef012c6cd6e9ccc7e4b13f89ebf0ed6e4aa4
 </p>
+
+
 
 ---
 
 ### 👀 Visitor Counter
 
+<!-- Visitor Badge -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Varad1455&style=flat-square&color=brightgreen" alt="Visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=Varad1455&label=Profile%20Views&color=DD2727&style=flat-square" alt="Visitor Badge" />
 </p>
 
 ---
